@@ -108,3 +108,7 @@ video {
 }
 
 #reasons-list { columns: 2; line-height: 2.2; font-size: 1.1rem; padding-left: 15px; }
+
+#reasons-list {
+    list-style-type: none; /* Esto quita el 1., 2., 3. automático */
+}
