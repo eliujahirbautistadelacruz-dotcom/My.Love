@@ -3,6 +3,7 @@ let bgMusic = new Audio('imagenes/audio.mp3');
 bgMusic.loop = true;
 bgMusic.volume = 0.5;
 
+
 // Intento de reproducción automática al primer clic en cualquier lugar
 document.body.addEventListener('click', () => {
     bgMusic.play().catch(e => console.log("Esperando interacción para audio"));
