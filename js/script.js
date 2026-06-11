@@ -85,7 +85,7 @@ function generateReasons() {
     "Que me tengas paciencia.",
     "Cómo me haces sentir.",
     "Tu estilo .",
-    "TUS BESOOOS.",
+    "TUS BESOOOOS.",
     "Cómo me escuchas.",
     "Tu ",
     "Tu ternura al despertar.",
